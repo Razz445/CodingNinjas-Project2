@@ -1,0 +1,33 @@
+{
+  "name": "placement",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Placement Cell  📝</h1> \r <p align=\"center\">\r  🖊️ An interface for coding ninjas placement cell to keep records of students and schedule interviews with different companies <br>\r      This App built using <a href=\"https://ejs.co/\">EJS</a>, <a href=\"https://www.mongodb.com/\">MongoDB</a>, <a href=\"https://expressjs.com/\">ExpressJs</a>, <a href=\"https://nodejs.org/en/\">NodeJs</a> and <a href=\"http://www.passportjs.org/\">PassportJS</a>\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.2",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "fast-csv": "^4.3.6",
+    "fs": "^0.0.1-security",
+    "mongodb": "^5.5.0",
+    "mongoose": "^6.11.1",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritik1903/NodeJS-Placement-Cell.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ritik1903/NodeJS-Placement-Cell/issues"
+  },
+  "homepage": "https://github.com/ritik1903/NodeJS-Placement-Cell#readme"
+}
